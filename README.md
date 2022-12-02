@@ -4,6 +4,6 @@
 
 ✨目前在学习wasm与tauri
 
-💬保持学习，保持清醒，⚡⚡Fighting
+💬保持学习，保持清醒，保持谦卑，⚡⚡Fighting
 
 💬[华洛的博客](https://www.900t.cn)
