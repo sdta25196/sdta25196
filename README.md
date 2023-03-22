@@ -2,7 +2,7 @@
 
 🤔中国教育在线前端技术专家
 
-✨react contributor
+✨**react contributor**
 
 💬保持学习，保持清醒，保持谦卑，⚡⚡Fighting
 
