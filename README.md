@@ -2,6 +2,8 @@
 
 🤔中国教育在线前端技术专家
 
+🤔现AI产品负责人
+
 ✨ **React contributor**
 
 💬保持学习，保持清醒，保持谦卑，⚡⚡Fighting
